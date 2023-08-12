@@ -1,6 +1,6 @@
 # Blood Bank Management
 
-![Donate Save a life](./assets/Donate%20%20Save%20a%20life.webp)
+![Donate Save a life](./assets/Blood%20Bank.png)
 
 ## About This Project
 
